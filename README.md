@@ -44,5 +44,7 @@ Pedestrian in Traffic Dataset 数据集https://archive.ics.uci.edu/ml/datasets/P
 交通流量预测数据集https://archive.ics.uci.edu/ml/datasets/Traffic+Flow+Forecasting
 
 无线室内定位数据集 https://archive.ics.uci.edu/ml/datasets/Wireless+Indoor+Localization
+
 UJIIndoorLoc-Mag数据集室内定位数据 https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc-Mag
+
 UJIIndoorLoc数据集多建筑多层室内定位数据库，用于测试依赖于 WLAN/WiFi 指纹的室内定位系统https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc
