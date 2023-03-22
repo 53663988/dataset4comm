@@ -29,9 +29,11 @@ BLE RSSI 室内定位 数据集https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+
 
 BLE RSSI 室内定位导航 数据集https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation
 
-别光突发交换网络 (OBS) 中突发报头数据包 (BHP) 泛洪攻击风险Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network 数据集https://archive.ics.uci.edu/ml/datasets/Burst+Header+Packet+%28BHP%29+flooding+attack+on+Optical+Burst+Switching+%28OBS%29+Network
+别光突发交换网络 (OBS) 中突发报头数据包 (BHP) 泛洪攻击风险Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network 数据集
+https://archive.ics.uci.edu/ml/datasets/Burst+Header+Packet+%28BHP%29+flooding+attack+on+Optical+Burst+Switching+%28OBS%29+Network
 
-来自WiFi RSSI、蓝牙和磁力计数据集的混合室内定位数据集https://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetometer
+来自WiFi RSSI、蓝牙和磁力计数据集的混合室内定位数据集
+https://archive.ics.uci.edu/ml/datasets/Hybrid+Indoor+Positioning+Dataset+from+WiFi+RSSI%2C+Bluetooth+and+magnetometer
 
 Internet Firewall Data 数据集https://archive.ics.uci.edu/ml/datasets/Internet+Firewall+Data
 
